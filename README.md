@@ -1,4 +1,4 @@
-![image](https://github.com/Healthink/GCMS-model/assets/13664377/b91f0410-50e4-43d6-9410-e4540ae15191)# GCMS-model
+# GCMS-model
 A machine learning model for the urine GC-MS interpretation
 
 Background:
